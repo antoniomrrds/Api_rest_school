@@ -1,0 +1,4 @@
+node_modules
+.env
+pull-server.sh
+
